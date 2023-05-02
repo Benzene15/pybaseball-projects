@@ -1,4 +1,5 @@
 Wanted to scale batting data based on park factors given here:
+https://baseballsavant.mlb.com/leaderboard/statcast-park-factors
 
 This will allow us to see which hitters are taking advantage of hitting in hitter-friendly parks and who is being penalized by the parks they play at.
 
