@@ -1,0 +1,5 @@
+Wanted to scale batting data based on park factors given here:
+
+This will allow us to see which hitters are taking advantage of hitting in hitter-friendly parks and who is being penalized by the parks they play at.
+
+You can query by a specific player and I also made a histogram of the overall ops++ of hitters.

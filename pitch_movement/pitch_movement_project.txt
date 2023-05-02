@@ -1,0 +1,5 @@
+After doing some nice visualization and checking some correlations I started doing some machine learning on the data.
+
+After our testing, we can see that Random Forrest was our best performer improving performance over the dummy regressor by 10%!
+
+All of the models can be found in the models directory.
